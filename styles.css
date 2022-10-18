@@ -1,0 +1,42 @@
+body{
+    background-color: #FFF3EC;
+    font-family: 'Monteserrat', sans-serif;
+}
+#title{
+    color: #577229;
+    font-size: 3rem;
+    text-align: center;
+    padding-top: 7rem;
+}
+#by{
+    color: #577229;
+    font-size: 1rem;
+    text-align: center;
+    padding-bottom: 6rem;
+}
+h2{
+    color: #577229;
+    font-size: 2rem;
+    margin-left: 15rem;
+    padding-top: 3rem;;
+}
+p,a{
+    color: #577229;
+    font-size: 1rem;
+    margin-left: 15rem;
+    margin-right: 15rem;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-top: 2rem;
+    
+}
+#web{
+    width: 25rem;
+}
+#redesign{
+    padding-bottom: 10rem;
+}
